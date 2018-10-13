@@ -1,0 +1,144 @@
+.box0
+{
+	width:800px;
+	height:600px;
+}
+.box1
+{
+	border:1px solid black;
+	width:29%;
+	height:14%;
+	float:left;
+	margin:0px 0px 0px 0px;	
+}
+.box2
+{
+	border:1px solid black;
+	width:70%;
+	height:14%;
+	margin:0px 0px 0px 30%;	
+
+}
+.box3
+{
+	clear:both;
+	border:1px solid black;
+	width:29%;
+	height:35%;
+	margin:11px 0px 0px 0px;	
+	float:left;
+
+}
+.box4
+{
+	border:1px solid black;
+	width:70%;
+	height:10%;
+	margin:11px 11px 0px 30%;	
+}
+
+.box5
+{
+
+	border:1px solid black;
+	width:70%;
+	height:384px;
+	margin:11px 0px 0px 30%;	
+
+}
+.box6
+{
+
+	clear:both;
+	border:1px solid black;
+	width:29%;
+	height:205px;
+	margin-top:-207px;	
+
+}
+
+.box7
+{
+	clear:both;
+	border:1px solid black;
+	width:800px;
+	height:44px;
+	margin: 15px 0px 0px 0px;
+	/* margin-top:-207px;	 */
+
+}
+@media (max-width:830px)
+{
+	.box0
+	{
+	width:100%;
+	height:600px;
+	/* border:1px solid red; */
+
+    }
+    
+    .box1
+{
+	border:1px solid black;
+	width:29%;
+	height:14%;
+	float:left;
+	margin:0px 0px 0px 0px;	
+}
+.box2
+{
+	border:1px solid black;
+	width:69%;
+	height:14%;
+	margin:0px 0px 0px 30%;	
+
+}
+.box3
+{
+	clear:both;
+	border:1px solid black;
+	width:29%;
+	height:35%;
+	margin:11px 0px 0px 0px;	
+	float:left;
+
+}
+.box4
+{
+	border:1px solid black;
+	width:69%;
+	height:49px;
+	margin:11px 11px 0px 30%;	
+}
+
+.box5
+{
+
+	border:1px solid black;
+	width:69%;
+	height:384px;
+	margin:11px 0px 0px 30%;	
+
+}
+.box6
+{
+
+	clear:both;
+	border:1px solid black;
+	width:29%;
+	height:205px;
+	margin-top:-207px;	
+
+}
+
+.box7
+{
+	clear:both;
+	border:1px solid black;
+	width:100%;
+	height:44px;
+	margin: 15px 0px 0px 0px;
+	/* margin-top:-207px;	 */
+
+}
+}
