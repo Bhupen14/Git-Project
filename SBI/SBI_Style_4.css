@@ -19,98 +19,82 @@ body {
     margin: 0px 0px 0px 0px;
 }
 
-p {
+p
+ {
     margin: 0px 0px 0px 0px;
 }
-h2 h3 {
+h2 {
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }
-.block1 {
+/* h3 {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+} */
+ .block1 {
     height: 35px;
     width: 100%;
     background-color: powderBlue;
-    margin: -15px 0px 0px 0px;
-    position: relative;
+    margin: 10px 0px 0px 0px;
+   position: relative;
 }
-.imgContact {
-    position: relative;
-    top: -20px;
-    bottom: 0px;
-    margin: 0px 0px 0px 0px;
-    height: 50px;
-    width: 250px;
-}
-.conditionDitail
+.serviceBlock
 {
-    height: 441px;
+    height: 438px;
     width:98%;
     border: 1px solid black;
     box-shadow: 1px gray;
     margin: 10px 0px 0px 0px;
 }
-.eligi0
+
+.deposits0
 {
     width: 160px;
-    height: 80px;
+    height: 160px;
     border: 1px solid black;
     position: relative;
     float: left;
 }
-.eligi1
+.deposits1
 {
     width: 228px;
-    height: 80px;
+    height: 160px;
     border: 1px solid black;
     position: relative;
     float: right;
 
 }
-.prizes0
+.other0
 {
     width: 160px;
-    height: 169px;
+    height: 90px;
     border: 1px solid black;
     position: relative;
     float: left;
 }
-.prizes1
+.other1
 {
     width: 228px;
-    height: 55px;
+    height: 90px;
     border: 1px solid black;
     position: relative;
     float: right;
 
 }
-.raffle0
-{
-    width: 160px;
-    height: 45px;
-    border: 1px solid black;
+
+
+.imgContactBlock {
     position: relative;
-    float: left;
-
+    margin: 10px 0px 0px 10px;
+    height: 60px;
+    width: 380px;
+    background-color: skyblue;
 }
-.raffle1
-{
-    width: 228px;
-    height: 45px;
-    border: 1px solid black;
+.imgContact {
     position: relative;
-    float: right;
-
-
-}
-.img1 {
-    background-image: url("Images/back.png");
-    background-position: 7px 0px;
-    background-size: 45px;
-    background-repeat: repeat-x;
+    margin: 10px 0px 0px 0px;
+    height: 40px;
     padding: 0px 0px 0px 0px;
-    margin: 14px 0px 0px 0px;
-    font-size: 30px;
-    font-weight: bold;
-    color: purple;
+    width: 200px;
+    
 }
-

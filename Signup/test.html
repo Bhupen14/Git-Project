@@ -1,0 +1,116 @@
+ 
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+ 
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Document</title>
+
+  <script src="myscript.js"></script>
+
+  <style>
+
+  .theimage{
+
+width: 250px;
+
+height: 250px;
+
+border: 5px solid blue;
+
+position: relative;
+
+left: 500px;
+background-color: white;
+visibility: hidden;
+
+}
+.theimage1{
+
+width: 250px;
+
+height: 450px;
+
+border: 5px solid green;
+
+position: relative;
+
+left: 500px;
+visibility: visible;
+}
+
+  </style>
+
+  <script>
+
+ 
+
+    function changeimage() {
+
+    //   document.getElementById('myimage').src = 'images/back.png';
+
+      document.getElementById('myimage').setAttribute("class", "theimage1");
+
+    }
+
+ 
+
+    // document.write("praveer panghal");
+
+    // console.log(myfname);
+
+ 
+
+  </script>
+
+  <noscript>
+
+    dimpesh your browser doesnot support javascript.
+
+  </noscript>
+
+ 
+
+</head>
+
+ 
+
+<body>
+
+
+
+
+  <input type="button" value="Click me" onclick="changeimage()">
+
+ 
+
+  <br>
+
+  <br>
+
+  <br>
+
+ 
+
+  <img src="images/cloud.png" alt="" id="myimage" class="theimage">
+
+ 
+
+</body>
+
+ 
+
+</html>
+
+ 
+

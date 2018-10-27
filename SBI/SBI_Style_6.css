@@ -1,0 +1,64 @@
+body {
+    margin: 0px 0px 0px 0px;
+}
+
+.mainFrmae {
+    height: 742px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid red;
+
+}
+
+.heading {
+    font-size: 30px;
+    /*background-color:orange;*/
+    background-image: linear-gradient(orange, white, white, green);
+    width: 100%;
+    height: 15%;
+    margin: 0px 0px 0px 0px;
+}
+
+.mainbody {
+    font-size: 30px;
+    /*background-color:orange;*/
+    background-image: linear-gradient(orange, white, white, green);
+    width: 100%;
+    height: 65%;
+    margin: 6px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.footer {
+    font-size: 20px;
+    /*background-color:orange;*/
+    background-image: linear-gradient(orange, white, green);
+    width: 100%;
+    height: 12%;
+    margin: 10px 0px 0px 0px;
+}
+
+.block1 {
+    height: 35px;
+    width: 100%;
+    background-color: powderBlue;
+    margin: 10px 0px 0px 0px;
+}
+
+
+p {
+    margin: 0px 0px 0px 0px;
+}
+
+h2 {
+    margin: 0px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+}
+.imgContact {
+    margin: 0px 0px 0px 42px;
+    padding-top: 30px;
+    height: 90px;
+    width: 200px;
+    text-align: center;
+}

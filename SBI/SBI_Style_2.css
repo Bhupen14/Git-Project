@@ -37,7 +37,7 @@ body {
 }
 
 .block2 {
-    height: 300px;
+    height: 292px;
     width: 98%;
     background-color: powderBlue;
     margin: 10px 0px 0px 0px;
@@ -47,8 +47,8 @@ body {
 .name-block1 {
     clear: both;
     border: 1px solid black;
-    height: 13%;
-    width: 20%;
+    height: 40px;
+    width: 82px;
     position: relative;
     float: left;
 }
@@ -56,8 +56,8 @@ body {
     /* clear: both;
     position: relative; */
     border: 1px solid black;
-    height: 13%;
-    width: 78%;
+    height: 40px;
+    width: 306px;
     margin:0px x0px x0px 0px;
     float:right;
 }
@@ -65,16 +65,16 @@ body {
     position: relative;
     clear: both;
     border: 1px solid black;
-    height: 40%;
-    width: 20%;
+    height: 124px;
+    width: 82px;
     margin:0px x0px x0px 0px;
     float: left;
 }
 .add-block1 {
     position: relative;
     border: 1px solid black;
-    height: 13%;
-    width: 78%;
+    height: 40px;
+    width: 306px;
     margin:20px x0px x0px 0px;
     float:right;
     
@@ -83,8 +83,8 @@ body {
     position: relative;
     clear: both;
     border: 1px solid black;
-    height: 27%;
-    width: 20%;
+    height: 80px;
+    width: 82px;
     margin:0px x0px x0px 0px;
     float: left;
 }
@@ -92,7 +92,7 @@ body {
     position: relative;
     border: 1px solid black;
     height: 13%;
-    width: 78%;
+    width: 306px;
     margin:20px x0px x0px 0px;
     float:right;
     
@@ -120,7 +120,7 @@ body {
     background-size: 45px;
     background-repeat: repeat-x;
     padding: 0px 0px 0px 0px;
-    margin: 10px 0px 0px 0px;
+    margin: 14px 0px 0px 0px;
     font-size: 30px;
     font-weight: bold;
     color: purple;
