@@ -7,22 +7,28 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="SignUp.css">
+    <script src="Signup.js">   </script>                    
 
-    <script>
-
-
-    </script>                    
 </head>
-
-<body>
+<style>
+.InfoBox
+{
+    height: 200px;
+    width: 300px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+</style>
+<body  onload="getData()">
     <div >
-            <form>
-                <div>
-                    <p> User Name </p>
-                    <p id="userName">  </p>
+            <form > 
+                <div class="InfoBox">
+                    <p> User Name  </p>
+                    <p id="userName"></p>
                     <p> User Email </p>
-                    <p id="userEmail"> </p>
-                    <a href="Signup.html" ><input type ="button" id="back" value="Back"></a>
+                    <p id="userEmail" > </p>
+                    <!-- <button id="getdata" onclick="getData()">Load</button> -->
+                    <a href="Signup.html" ><input type ="button" id="back" value="Back" ></a>
 
                 </div>
 
